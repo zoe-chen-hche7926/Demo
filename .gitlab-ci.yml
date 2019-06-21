@@ -65,4 +65,4 @@ auto-deploy:
  ## Authenticate with your playground or sandbox environment
  - sfdx force:auth:jwt:grant --clientid $SF_CONSUMER_KEY --jwtkeyfile assets/server.key --username $SF_USERNAME --setdefaultdevhubusername --setalias HubOrg
  ## Deploy to production
- - sfdx force:source:deploy --targetdevhubusername HubOrg
+ - sfdx force:source:deploy --targetusername HubOrg
