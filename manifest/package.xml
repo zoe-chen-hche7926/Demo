@@ -46,7 +46,14 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Account-Account (Marketing) Layout</members>
+        <members>Account-Account (Sales) Layout</members>
+        <members>Account-Account (Support) Layout</members>
+        <members>Account-Account Layout</members>
+        <members>Contact-Contact (Marketing) Layout</members>
+        <members>Contact-Contact (Sales) Layout</members>
+        <members>Contact-Contact (Support) Layout</members>
+        <members>Contact-Contact Layout</members>
         <name>Layout</name>
     </types>
     <types>
