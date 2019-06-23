@@ -44,6 +44,10 @@
                 <behavior>Edit</behavior>
                 <field>Appointment_Date__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>OK_To_Contact__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
