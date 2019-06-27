@@ -59,6 +59,10 @@
                 <behavior>Edit</behavior>
                 <field>Demo_with_Dave__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Demo_with_Bettina__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

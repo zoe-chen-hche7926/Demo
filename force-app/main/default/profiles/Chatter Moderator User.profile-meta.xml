@@ -59,6 +59,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Demo_with_Bettina__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Demo_with_Dave__c</field>
         <readable>false</readable>
     </fieldPermissions>
